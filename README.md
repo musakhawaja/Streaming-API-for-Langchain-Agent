@@ -3,7 +3,7 @@ A simple Streaming API for langchain's tool calling agent built on FastAPI. It u
 To run it:
 1) Install all requirements
 2) Make sure to put all API keys in a .env file
-3) run "uvicorn api:app" on the terminal
+3) run "uvicorn api:app"
 
 
 
